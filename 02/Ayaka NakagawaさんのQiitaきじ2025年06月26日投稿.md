@@ -1,0 +1,4 @@
+This Qiita article details the creation of a customized contact book app using Glide, a no-code tool, with assistance from ChatGPT.[1] The author developed the app to address the limitations of existing solutions for a shift-based workplace, focusing on features like customizable input fields, color-coded priority settings, and a "Chief Confirmed" page.[1] The app was refined based on feedback from colleagues and supervisors, ultimately providing a digital solution for communication and record-keeping.[1]
+
+Sources:
+[1] 【Glide】すぐに全員確認できる！現場用にカスタマイズした連絡帳 ... (https://qiita.com/Nakagawa11210/items/96fae26f3ae1723da501)

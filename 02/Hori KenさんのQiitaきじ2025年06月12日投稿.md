@@ -1,0 +1,4 @@
+This Qiita article details how to create a sales bot using LINE, Dify, and Make, without writing code[1]. The bot allows users to scan a product's JAN code via LINE, which then uses Dify for image recognition and ChatGPT to extract the code[1]. Make integrates LINE and Dify, retrieving sales data from Google Sheets based on the extracted JAN code and sending it back to LINE[1]. The author, a retail store employee, created this to reduce time spent checking sales data, ultimately improving manufacturing accuracy[1].
+
+Sources:
+[1] あと何パック作ればいいの？〜LINE × Dify × Make で売上Botをノー ... (https://qiita.com/horigome2245/items/4b8f5e7ab3534ca9697c)

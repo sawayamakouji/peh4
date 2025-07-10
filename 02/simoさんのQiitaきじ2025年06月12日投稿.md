@@ -1,0 +1,4 @@
+The article describes an AI application called "Yobikomi-kun" developed with Dify, which automatically generates promotional sales pitches for supermarkets based on trending TV show recipes.[1] This low-code solution uses Dify's workflow to integrate a "Code Execution" node for dynamic date ranges, a "Google Search" node to find current TV program information, and an "LLM" node (GPT-4) to create the sales pitches.[1] The app aims to prevent monotony in sales pitches, provide timely information, and improve operational efficiency.[1] The author, a supermarket staff member, highlights the speed and effectiveness of Dify in creating such an AI tool without extensive programming knowledge.[1]
+
+Sources:
+[1] Difyで爆速開発！テレビ番組から旬のネタで販促セリフを自動生成 ... (https://qiita.com/siomiso66/items/fbd55a725ebe6401f3dd)

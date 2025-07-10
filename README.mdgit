@@ -1,0 +1,38 @@
+# peh4
+initgit
+add
+README.mdgit
+commit
+-m
+first commit
+git
+branch
+-M
+maingit
+remote
+add
+origin
+https://github.com/sawayamakouji/peh4.gitgit
+push
+-u
+origin
+main
+# peh4
+initgit
+add
+README.mdgit
+commit
+-m
+first commit
+git
+branch
+-M
+maingit
+remote
+add
+origin
+https://github.com/sawayamakouji/peh4.gitgit
+push
+-u
+origin
+main

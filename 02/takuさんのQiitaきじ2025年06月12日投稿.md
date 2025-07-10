@@ -1,0 +1,4 @@
+The Qiita article details the creation of an AI-powered Todo management application.[1] The author utilized ChatGPT for generating and refining the application's code, and Dify (integrated with the Gemini API) to enable AI-driven task prioritization and encouraging messages.[1] The development process involved rapid prototyping with CodePen and transitioning to a local HTML file for Dify API integration.[1] The app allows users to input tasks, set deadlines and priorities, and receive AI-generated top 5 task recommendations with supportive feedback.[1]
+
+Sources:
+[1] AI君が労ってくれるTodo管理アプリを作成しました。 #ChatGPT ... (https://qiita.com/07191970t/items/7634b8d64875a56cd37a)
