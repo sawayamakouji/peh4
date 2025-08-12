@@ -2,24 +2,24 @@
 - 2025-08-12 [AIチャットボットで仕事の困りごとを解決しよう](https://note.com/lucky_toad2964/n/n4a829c01d986) (note) 👍1
 - 2025-07-10 [課題解決に向けて歩き出します🐈](https://note.com/lucky_toad2964/n/n6f21a06b059e) (note) 👍5
 - 2025-06-26 [職場の「ちょっと不便」を見逃さない。業務改善に向けた3つの挑戦](https://note.com/lucky_toad2964/n/n24a31079ec1e) (note) 👍9
-- 2025-06-26 [【VBA × ChatGPT】コピペ作業から解放！売上を1分で自動転記+メール送信するマクロを作ってみた！](https://qiita.com/yuuuna04/items/0c8373756e18ec1b2d7f) (Qiita) 👍4
-- 2025-06-12 [【Dify × ChatGPT】明日の予定は何？スケジュールが一発でわかるBotを作ってみた！](https://qiita.com/yuuuna04/items/b5344f970aadeda4f75d) (Qiita) 👍8
+- 2025-06-26 [【VBA × ChatGPT】コピペ作業から解放！売上を1分で自動転記+メール送信するマクロを作ってみた！](https://qiita.com/yuuuna04/items/0c8373756e18ec1b2d7f) (Qiita) 👍5
+- 2025-06-12 [【Dify × ChatGPT】明日の予定は何？スケジュールが一発でわかるBotを作ってみた！](https://qiita.com/yuuuna04/items/b5344f970aadeda4f75d) (Qiita) 👍9
 - 2025-06-12 [できることから、一歩ずつ。職場の“困りごと”と向き合った話](https://note.com/lucky_toad2964/n/n266552cab708) (note) 👍5
 
 ## Hori Ken
 - 2025-08-13 [部下育成計画 ～"デジタル日報"で仕事への意識を変えろ！～](https://note.com/horigome2245/n/n616ff2a9e4d9) (note) 👍1
-- 2025-07-11 [シフト間違いはもうやめて！顔認識して、その人のシフトを画面に表示させるアプリを作ってみた。](https://qiita.com/horigome2245/items/170687afbe25abdeea11) (Qiita) 👍0
+- 2025-07-11 [シフト間違いはもうやめて！顔認識して、その人のシフトを画面に表示させるアプリを作ってみた。](https://qiita.com/horigome2245/items/170687afbe25abdeea11) (Qiita) 👍8
 - 2025-07-10 [職場の「デジタルリーダー」を目指す男の話～デジタルツール実装編～](https://note.com/horigome2245/n/n7559b9e56c28) (note) 👍8
-- 2025-06-26 [VBAを使って商品の売上を自動で取得させるとガチ便利だった件](https://qiita.com/horigome2245/items/86781d7f933c4ae644f6) (Qiita) 👍8
+- 2025-06-26 [VBAを使って商品の売上を自動で取得させるとガチ便利だった件](https://qiita.com/horigome2245/items/86781d7f933c4ae644f6) (Qiita) 👍9
 - 2025-06-26 [職場の「デジタルリーダー」を目指す男の話～アイデア発起編～](https://note.com/horigome2245/n/nc4d113219924) (note) 👍4
 - 2025-06-12 [LINEで「商品の売上個数」を聞ける！ノーコードで作る売上応答Bot【Make×Dify】](https://qiita.com/horigome2245/items/4b8f5e7ab3534ca9697c) (Qiita) 👍8
 - 2025-06-12 [職場の「デジタルリーダー」を目指す男の話 ～職場の問題提起編～](https://note.com/horigome2245/n/n08ca48764455) (note) 👍7
 
 ## ゴマ
 - 2025-08-12 [🏪 「言ったはず…」をゼロに！スーパー現場のDX改革 – イグナイト・クルーの挑戦](https://note.com/goma_create/n/nbe435175f78a) (note) 👍2
-- 2025-07-10 [【Teachable Machine × Google AI Studio】あいさつエネルギーチェッカーを作ってみた](https://qiita.com/goma-create/items/60f7a8066fc18cedf00f) (Qiita) 👍4
+- 2025-07-10 [【Teachable Machine × Google AI Studio】あいさつエネルギーチェッカーを作ってみた](https://qiita.com/goma-create/items/60f7a8066fc18cedf00f) (Qiita) 👍5
 - 2025-07-10 [「伝えたはずが伝わってない」をなくす。イグナイト・クルーで挑む、スマホアプリによる現場改革への挑戦！](https://note.com/goma_create/n/n2e7337c0a7a2) (note) 👍4
-- 2025-06-26 [【Glide × Googleスプレッドシート】「ミーティングシェアアプリ」を作ってみた](https://qiita.com/goma-create/items/91cf67297e8793980cbd) (Qiita) 👍3
+- 2025-06-26 [【Glide × Googleスプレッドシート】「ミーティングシェアアプリ」を作ってみた](https://qiita.com/goma-create/items/91cf67297e873980cbd) (Qiita) 👍4
 - 2025-06-26 [イグナイト・クルーの挑戦！～現場のリアルから磨いたプロトタイプアイデアたち～](https://note.com/goma_create/n/nf9abada00028) (note) 👍6
 - 2025-06-12 [【Dify × ChatGPT】 クレーム（お申し出）返答文を自動生成するチャットフローアプリを作った話](https://qiita.com/goma-create/items/00bd2d7c3959afefd4a8) (Qiita) 👍6
 - 2025-06-11 [オペレーション　チーム「イグナイト・クルー」を育成せよ！](https://note.com/goma_create/n/n741a0f02e11f) (note) 👍12
@@ -27,8 +27,8 @@
 ## simo
 - 2025-08-12 [初心者がデジタルに向き合い３か月！ 何が作れて、何が残ったのでしょう？](https://note.com/simo_note/n/nf47f5fde5867) (note) 👍3
 - 2025-07-10 [北海道のスーパー畜産部門、AIで販売戦略を革新します！〜やること宣言〜](https://note.com/simo_note/n/nc15cd4d458b2) (note) 👍2
-- 2025-07-08 [挑戦！⇒失敗！3DスキャンデータでAR売り場シミュレーション！Blender+PlanaAR活用術](https://qiita.com/siomiso66/items/6eaf68d99ce12526c961) (Qiita) 👍3
-- 2025-06-26 [Google Workspaceで業務革命！現役スーパー社員が作った価格調査アプリ](https://qiita.com/siomiso66/items/63c133b731fb4fe24f54) (Qiita) 👍2
+- 2025-07-08 [挑戦！⇒失敗！3DスキャンデータでAR売り場シミュレーション！Blender+PlanaAR活用術](https://qiita.com/siomiso66/items/6eaf68d99ce12526c961) (Qiita) 👍4
+- 2025-06-26 [Google Workspaceで業務革命！現役スーパー社員が作った価格調査アプリ](https://qiita.com/siomiso66/items/63c133b731fb4fe24f54) (Qiita) 👍3
 - 2025-06-24 [課題に悩むのは時間切れ！　　　　　　そのアイデアそろそろ形にしませんか？](https://note.com/simo_note/n/n31904233b02c) (note) 👍8
 - 2025-06-12 [Difyで爆速開発！テレビ番組から旬のネタで販促セリフを自動生成する「呼び込み君」AIアプリ](https://qiita.com/siomiso66/items/fbd55a725ebe6401f3dd) (Qiita) 👍3
 - 2025-06-09 [その問題もっと教えてください！　職場に突撃、情熱をもって悩みを聞く！](https://note.com/simo_note/n/n47fb33fd7c60) (note) 👍7
@@ -38,14 +38,14 @@
 - 2025-07-10 [いよいよ『叶えたい』を実現していこう！](https://note.com/yamanayukie/n/n7cd067962fb7) (note) 👍3
 - 2025-07-10 [🧍 Teachable Machineで作る！初心者でもできる姿勢推定アプリ](https://qiita.com/ami2003-1-8yu/items/a5556c5d06b7c0ed7665) (Qiita) 👍5
 - 2025-06-26 [『叶えたい』が、少しずつ前に進みはじめた話](https://note.com/yamanayukie/n/n029e4bc335b6) (note) 👍7
-- 2025-06-26 [【Glide】コード不要！職場の「イイネ！」を集めて、笑顔いっぱいアプリ😃](https://qiita.com/ami2003-1-8yu/items/e81a8f6becebd47af3ca) (Qiita) 👍5
+- 2025-06-26 [【Glide】コード不要！職場の「イイネ！」集めて、笑顔いっぱいアプリ😃](https://qiita.com/ami2003-1-8yu/items/e81a8f6becebd47af3ca) (Qiita) 👍5
 - 2025-06-12 [もう資料探しで時間をムダにしない！Difyで作る「ファイル検索チャットボット」](https://qiita.com/ami2003-1-8yu/items/32ef6f4816a4735afd62) (Qiita) 👍8
 - 2025-06-11 [職場の「困った…」を聞いたら、解決策はTeamsにあった！](https://note.com/yamanayukie/n/ne1e3fc23c1ff) (note) 👍9
 
 ## やまぴ
 - 2025-08-10 [忘れちゃいけませんよ！契約書提出リマインドメールツールを作ってみた](https://note.com/norikun53/n/nbe1e52cfcdc6) (note) 👍2
 - 2025-07-10 [困りごとの解決へ・・いよいよ乗り出していくのだ！](https://note.com/norikun53/n/necca0106d694) (note) 👍4
-- 2025-07-10 [ちょっと待て！その契約書は収入印紙いりませんか？～契約書の画像で印紙要不要を判断するツールを作ってみた](https://qiita.com/fyuatan64/items/7ab2814b1d9399166443) (Qiita) 👍0
+- 2025-07-10 [ちょっと待て！その契約書は収入印紙いりませんか？～契約書の画像で印紙要不要を判断するツールを作ってみた](https://qiita.com/fyuatan64/items/7ab2814b1d9399166443) (Qiita) 👍2
 - 2025-06-26 [ほんとの困りごとの解決方法を探したい！ひとり悩んでいても進めないのだ](https://note.com/norikun53/n/nafbb35ab6b7c) (note) 👍7
 - 2025-06-26 [「計上日近づいてるよっ！！忘れちゃだめよ！！」～文系人間　Power　Automate　Desktopでリマインド大作戦決行⁉](https://qiita.com/fyuatan64/items/362337cf75eb233cf979) (Qiita) 👍5
 - 2025-06-12 [契約書の行方を探せ！～契約書管理自動化への挑戦～文系人間、頑張る](https://qiita.com/fyuatan64/items/70cde67275582c75a4b9) (Qiita) 👍7
@@ -54,9 +54,9 @@
 ## べあ
 - 2025-08-12 [お惣菜店員、歩いた道を振り返る。](https://note.com/mute_parrot7294/n/nf181c15acb9f) (note) 👍3
 - 2025-07-10 [お惣菜店員、地図を手に、朝焼けの中を走りだす！](https://note.com/mute_parrot7294/n/n0dca302cfc59) (note) 👍9
-- 2025-07-10 [【PalanAR】お客さま用！オススメの関連品を紹介AR！](https://qiita.com/sakura330/items/f6986744730ee84e01f2) (Qiita) 👍3
+- 2025-07-10 [【PalanAR】お客さま用！オススメの関連品を紹介AR！](https://qiita.com/sakura330/items/f6986744730ee84e01f2) (Qiita) 👍5
 - 2025-06-26 [お惣菜店員、波を越えて丘をあるく。](https://note.com/mute_parrot7294/n/n003cb13bbeaf) (note) 👍10
-- 2025-06-26 [【Glide】　新人スタッフ用！すぐ確認できるお助けアプリ](https://qiita.com/sakura330/items/e8e3563435c0b97b8505) (Qiita) 👍4
+- 2025-06-26 [【Glide】　新人スタッフ用！すぐ確認できるお助けアプリ](https://qiita.com/sakura330/items/e8e3563435c0b97b8505) (Qiita) 👍5
 - 2025-06-12 [お惣菜店員、心の深海に潜る。](https://note.com/mute_parrot7294/n/n571c5dc292df) (note) 👍13
 - 2025-06-12 [【Dify】 新人スタッフ用！手元で確認Q&A Bot！](https://qiita.com/sakura330/items/fed69f0ebb1e52ce73bc) (Qiita) 👍2
 
